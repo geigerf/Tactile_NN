@@ -3,14 +3,12 @@
 ## Introduction
 
 This is a TCN implementation to process tactile data from the MIT dataset.
-It uses the approach of the original TCN that was used on the MNIST dataset,
-meaning that it treats the 2d data as a 1d sequence.
+It uses the approach of the original TCN that was used on the MNIST dataset, meaning that it treats the 2d data as a 1d sequence.
 
 
 ## System requirements
 
-This lists the installed python packages and versions. However, it is not
-absolutely necessary to install it with exactly the same versions.
+This lists the installed python packages and versions. However, it is not absolutely necessary to install it with exactly the same versions.
 Consult this list if there are some broken dependencies in your environment.
 
 Required packages:
@@ -28,5 +26,9 @@ Imported standard packages:
 
 ## Additional information
 
-Running *python Tactile_NN --help* in a python environment with the required
-packages will give a list of possible arguments.
+Running *python Tactile_NN --help* in a python environment with the required packages will give a list of possible arguments.
+
+
+## Contact
+
+Please email any questions or comments to [geigerf@student.ethz.ch](geigerf@student.ethz.ch).
